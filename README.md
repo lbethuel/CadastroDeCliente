@@ -11,6 +11,10 @@ Cadastro de clientes feito em C# com SQL Server.
 ![My image](https://github.com/lbethuel/CadastroDeCliente/blob/master/cadastrocliente/img/Cliente%20cadastrado.png)
 
 
+[Consultar o cadastro inserido]
+
+![My image](https://github.com/lbethuel/CadastroDeCliente/blob/master/cadastrocliente/img/Campo%20de%20consulta.png)
+
 [Editando dados do cliente]
 
 ![My image](https://github.com/lbethuel/CadastroDeCliente/blob/master/cadastrocliente/img/editar.png)
