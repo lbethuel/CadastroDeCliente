@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\cadastrocliente\cadastrocliente\obj\Debug\cadastrocliente.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\cadastrocliente\cadastrocliente\obj\Debug\cadastrocliente.Form1.resources
+C:\Users\lucas\source\repos\cadastrocliente\cadastrocliente\obj\Debug\cadastrocliente.Properties.Resources.resources
+C:\Users\lucas\source\repos\cadastrocliente\cadastrocliente\obj\Debug\cadastrocliente.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\cadastrocliente\cadastrocliente\obj\Debug\cadastrocliente.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\cadastrocliente\cadastrocliente\bin\Debug\cadastrocliente.exe.config
+C:\Users\lucas\source\repos\cadastrocliente\cadastrocliente\bin\Debug\cadastrocliente.exe
+C:\Users\lucas\source\repos\cadastrocliente\cadastrocliente\bin\Debug\cadastrocliente.pdb
+C:\Users\lucas\source\repos\cadastrocliente\cadastrocliente\obj\Debug\cadastrocliente.exe
+C:\Users\lucas\source\repos\cadastrocliente\cadastrocliente\obj\Debug\cadastrocliente.pdb
